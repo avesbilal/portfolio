@@ -1,0 +1,28 @@
+a {
+    text-decoration: none;
+    color: #A0F8A2;
+    font-family: 'Space Mono', sans-serif;
+}
+
+.boxes {
+    padding: 40px;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 45vh;
+    justify-content:space-evenly;
+    justify-content: left;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.bx {
+    text-decoration: none;
+    border: 2px solid #75AE73;
+    padding: 12px;
+    margin: 12px;
+    width: fit-content;
+    height: fit-content;
+    font-size: xx-large;
+    border-radius: 10px;
+}

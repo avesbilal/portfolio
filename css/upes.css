@@ -1,0 +1,24 @@
+.edu {
+    position: absolute;
+    top: 220px;
+    right: 33px;
+}
+
+nav ul li {
+    display:grid;
+    margin-top: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-family: 'DM Mono', sans-serif;
+    font-size: x-large;
+    font-weight:bolder;
+    color: #81FB98;
+}
+
+.logo1 {
+    width: 20px;
+    height: 25px;
+    object-fit:cover;
+}

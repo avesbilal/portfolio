@@ -1,0 +1,15 @@
+.mtx {
+    position: absolute;
+    width: 100%;
+    height: 190px;
+    object-fit: cover;
+  }
+  
+.my_pfp {
+/*my pfp image config*/
+width: 200px;
+border-radius: 100px;
+position: relative;
+top: 40px;
+left: 30px;
+}

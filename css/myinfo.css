@@ -1,0 +1,44 @@
+.myname {
+    position:relative;
+    top: 55px;
+    left: 26px;
+    font-size: 170%;
+    font-weight:bold;
+    color: #81FB98;
+    font-family:'Goldman', sans-serif;
+    }
+    
+    .container {display:inline-block}
+    
+    .bio1 {
+    font-family: 'Share Tech Mono', sans-serif;
+    position: relative;
+    top: 60px;
+    left: 26px;
+    color: #62B06D;
+    }
+    
+    .bio2 {
+    font-family: 'Share Tech Mono', sans-serif;
+    position: relative;
+    top: 70px;
+    left: 26px;
+    color: #62B06D;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: 
+        typing 4s steps(40);
+        /*cursor: .4s step-end infinite alternate; <-- will figure this out later*/
+    }
+    
+    @keyframes typing {
+        from { width: 0; }
+    }
+    
+    em {
+    color: #81FB98;
+    font-weight: bold;
+    font-family: 'Share Tech Mono', sans-serif;  
+    font-style: normal;
+    }
