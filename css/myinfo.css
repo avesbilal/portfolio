@@ -27,8 +27,7 @@
     width: 100%;
     white-space: nowrap;
     overflow: hidden;
-    animation: 
-        typing 4s steps(40);
+    animation: typing 4s steps(40);
         /*cursor: .4s step-end infinite alternate; <-- will figure this out later*/
     }
     
@@ -41,4 +40,14 @@
     font-weight: bold;
     font-family: 'Share Tech Mono', sans-serif;  
     font-style: normal;
+    }
+
+    .notice {
+    color: #ff0000;
+    font-weight: bold;
+    font-family: 'Share Tech Mono', sans-serif;  
+    font-style: normal;
+    position: relative;
+    bottom: 10px;
+    left: 100px;
     }
