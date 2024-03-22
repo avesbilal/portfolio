@@ -43,11 +43,12 @@
     }
 
     .notice {
-    color: #ff0000;
+    color: #6fff00c4;
     font-weight: bold;
     font-family: 'Share Tech Mono', sans-serif;  
     font-style: normal;
+    font-size: 20px;
     position: relative;
-    bottom: 10px;
+    bottom: 55px;
     left: 100px;
     }
